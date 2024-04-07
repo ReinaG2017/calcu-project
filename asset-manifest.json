@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ReinaG2017/calcu-project.git/static/css/main.1de26534.css",
-    "main.js": "/ReinaG2017/calcu-project.git/static/js/main.1211e280.js",
-    "index.html": "/ReinaG2017/calcu-project.git/index.html",
-    "main.1de26534.css.map": "/ReinaG2017/calcu-project.git/static/css/main.1de26534.css.map",
-    "main.1211e280.js.map": "/ReinaG2017/calcu-project.git/static/js/main.1211e280.js.map"
+    "main.css": "/calcu-project/static/css/main.1de26534.css",
+    "main.js": "/calcu-project/static/js/main.1211e280.js",
+    "index.html": "/calcu-project/index.html",
+    "main.1de26534.css.map": "/calcu-project/static/css/main.1de26534.css.map",
+    "main.1211e280.js.map": "/calcu-project/static/js/main.1211e280.js.map"
   },
   "entrypoints": [
     "static/css/main.1de26534.css",
